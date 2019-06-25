@@ -9,4 +9,4 @@ BMI compares your weight to your height, and is calculated by dividing your weig
 
 
 ### Screenshot:
-
+<img src="https://github.com/AleBark/body-mass-index-calculator/blob/master/sample.jpg" height="450" width="250px" >
